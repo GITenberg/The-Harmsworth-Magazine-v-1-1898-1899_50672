@@ -1,10 +1,16 @@
 _repo: The-Harmsworth-Magazine-v-1-1898-1899_50672
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50672-h/images/cover.jpg
 creator:
   author:
     agent_name: Magazine, The Harmsworth
     gutenberg_agent_id: '46031'
     url: http://www.gutenberg.org/2009/agents/46031
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50672#The-Harmsworth-Magazine-v-1-1898-1899
 gutenberg_issued: '2015-12-12'
 gutenberg_type: Text
 identifiers:
